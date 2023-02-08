@@ -1,5 +1,5 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
-📋
+
 local Window = Rayfield:CreateWindow({
    Name = "Something Original's Script Hub",
    LoadingTitle = "Loading...",
@@ -25,3 +25,4 @@ local Window = Rayfield:CreateWindow({
       Key = "This is the key. I can, in fact, read."
    }
 })
+local Tab = Window:CreateTab("Tab Example", 4483362458) -- Title, Image
