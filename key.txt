@@ -1,2 +1,7 @@
 Copy the text below directly into the hub.
-``` This is the key. I can, in fact, read. ```
+\/ KEY BELOW
+
+This is the key. I can, in fact, read.
+
+/\ KEY ABOVE
+That was the key.
