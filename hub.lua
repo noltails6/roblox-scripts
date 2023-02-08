@@ -9,11 +9,11 @@ local Window = Rayfield:CreateWindow({
       FolderName = somethingoriginalhub, -- Create a custom folder for your hub/game
       FileName = "SomethingOGHub"
    },
-   Discord = {
-      Enabled = false,
-      Invite = "SIRIUS", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD.
-      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
-   },
+--   Discord = {
+--      Enabled = false,
+--      Invite = "SIRIUS", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD.
+--      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+--   },
    KeySystem = false, -- Set this to true to use our key system
    KeySettings = {
       Title = "Prove You Can Read",
