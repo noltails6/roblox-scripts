@@ -1,4 +1,6 @@
 # roblox-scripts
 
-### That's all there is to it.
-thats actually it.
+### Script Hub
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noltails6/roblox-scripts/main/readme.md"))()
+```
