@@ -5,7 +5,7 @@ local Window = Rayfield:CreateWindow({
    LoadingTitle = "Loading...",
    LoadingSubtitle = "",
    ConfigurationSaving = {
-      Enabled = true,
+      Enabled = false,
       FolderName = somethingoriginalhub, -- Create a custom folder for your hub/game
       FileName = "SomethingOGHub"
    },
