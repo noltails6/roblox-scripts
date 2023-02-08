@@ -5,3 +5,4 @@
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/noltails6/roblox-scripts/main/hub.lua"))()
 ```
+###### ...sometimes :(
